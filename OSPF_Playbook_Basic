@@ -1,6 +1,6 @@
 ---
 - name: Manage GNS3 devices
-  hosts: R1
+  hosts: R1, R2, S1, S2
   gather_facts: false
   connection: local
 
