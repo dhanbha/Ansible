@@ -7,7 +7,7 @@
 
   vars:
     cli:
-      username: david
+      username: dj
       password: cisco
 
   tasks:
