@@ -102,7 +102,7 @@
 
   vars:
     cli:
-      username: david
+      username: dj
       password: cisco
       transport: cli
 
